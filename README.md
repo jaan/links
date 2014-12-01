@@ -1,0 +1,4 @@
+links
+=====
+
+FE standard links
