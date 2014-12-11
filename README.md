@@ -14,3 +14,6 @@ http://www.w3counter.com/globalstats.php
 
 All market shares: (browsers, os, mobile os, resolutions .....)  
 http://www.netmarketshare.com/browser-market-share.aspx?qprid=1&qpcustomb=0#
+
+Trends, stats and performance
+http://httparchive.org/
