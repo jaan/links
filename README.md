@@ -18,7 +18,7 @@ http://www.netmarketshare.com/browser-market-share.aspx?qprid=1&qpcustomb=0#
 Trends, stats and performance  
 http://httparchive.org/
 
-Query the httparchive
-http://bigqueri.es/c/http-archive
-https://bigquery.cloud.google.com/queries/ 
+Query the httparchive  
+http://bigqueri.es/c/http-archive 
+https://bigquery.cloud.google.com/queries/  
 
