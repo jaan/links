@@ -19,6 +19,6 @@ Trends, stats and performance
 http://httparchive.org/
 
 Query the httparchive  
-http://bigqueri.es/c/http-archive 
+http://bigqueri.es/c/http-archive  
 https://bigquery.cloud.google.com/queries/  
 
